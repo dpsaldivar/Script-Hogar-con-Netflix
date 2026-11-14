@@ -11,6 +11,11 @@ Optimizar a veces significa EVADIR.
 5._Aceptar los permisos y seleccionar una carpeta que debe mantenerse sin borrar.
 6._Ir a la pestaña Fuentes/Override y ubicar el archivo otSDKStub, abrirlo y pegar en la ultima linea alguna de las funciones de los archivos .js
 
+# Importante
+Para que este script haga su trabajo, en todo momento las herramientas de desarrollador deben estar abiertas. Para mayor comodidad, dar clic en los 3 puntos de la parte superior derecha y en la primera opcion cliquear el primer icono, "Desanclar en una ventana separada".
+
+En caso de cerrar la pestaña de Netflix o el navegador y tener inconvenientes, abrir las herramientas de desarrollador en la nueva pestaña de Netfix y pusalr Contl+F5 para recargar la pagina ignorando el caché.
+
 
 # Recomendaciones
 La funcion del archivo OptionUsedByMe.js es la que uso yo en todo momento y por lo tanto, es actualizada constantemente. Esto garantiza su funcionalidad.
